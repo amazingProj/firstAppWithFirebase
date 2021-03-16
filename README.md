@@ -22,6 +22,10 @@ if it is succesfully inserted to firebase.
 
 We use real time data base to insert travel
 
+like we can see in the following picture:
+
+https://github.com/amazingProj/secondTravelApp
+
 We can see our example travel in the data base
 
 ![image](https://user-images.githubusercontent.com/68805670/111267952-55743580-8635-11eb-8b51-8195ea4a8e1b.png)
@@ -30,4 +34,4 @@ which now can be read by the second application.
 
 Link to second app:
 
-
+https://github.com/amazingProj/secondTravelApp
