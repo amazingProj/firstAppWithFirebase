@@ -1,3 +1,5 @@
+The projects can be run on Android studio version 4.1 
+
 # Requests to firebase
 
 The user enters details about his travel,
